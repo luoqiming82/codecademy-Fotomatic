@@ -1,2 +1,2 @@
 # codecademy-Fotomatic
-## this is a codecamdemy off platform project - Fotomatic
+## this is a codecademy off platform project - Fotomatic
